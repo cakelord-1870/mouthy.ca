@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mouthy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mouthy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mouthy.ca/collections/bongs.atom"/>
+  <title>MouTHy Inc.</title>
+  <updated>2020-06-25T12:40:24-04:00</updated>
+  <author>
+    <name>MouTHy Inc.</name>
+  </author>
+  <entry>
+    <id>https://mouthy.ca/products/5388903252134</id>
+    <published>2020-06-25T12:40:24-04:00</published>
+    <updated>2020-06-25T12:40:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-clear-glass-dab-rig-db-22"/>
+    <title>MouTHy Clear Glass Dab Rig - DB 22</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/DB-22-Dab-Rig.png?v=1593103225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">No non-sense performance with a clear vapor path that retains maximum flavor of your favorite concentrate.<br><br>Height: 9 inches<br>Glass thickness: 5mm<br>Joint Size:14.4 mm<br>Includes Quartz Banger</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bongs</s:tag>
+    <s:tag>Dab</s:tag>
+    <s:tag>Glass Bongs</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5388903252134</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>10035</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5388901220518</id>
+    <published>2020-06-25T12:38:07-04:00</published>
+    <updated>2020-06-25T12:38:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-classic-oil-rig-db-3"/>
+    <title>MouTHy Classic Oil Rig - DB 3</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/DB-3-Dab-Rig.png?v=1593103088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Concentrate rig with a showerhead percolator. Includes a quartz banger for concentrates and a dry herb bowl for a convenient switch to dry herb use.<br><br>Height: 10 inches <br>Glass thickness: 5 mm<br>Base diameter: 3.5 inches <br>Feature: Showerhead percolator <br>Joint Size: 14.4 mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bongs</s:tag>
+    <s:tag>Dab</s:tag>
+    <s:tag>Glass Bongs</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5388901220518</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>10034</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346438086822</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/dab-rig-model-db-1"/>
+    <title>Dab Rig - DB-1</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Dab-Rig-1-Square.png?v=1592232324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic dab rig, clean and easy to use. Includes a quartz banger for concentrates and a dry herb bowl for a convenient switch to dry herb use. <br><br>Height: 6.5 inches<br>Glass thickness : 5 mm <br>Base diameter: 3.8 inches <br>Feature: Matrix percolator<br>Joint Size: 14.4 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bongs</s:tag>
+    <s:tag>Glass Bongs</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346438086822</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>10033</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437824678</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/top-puff-by-mouthy-portable-bong"/>
+    <title>Top Puff by MouTHy portable bong</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/MouTHy-TopPuff-Blue-3-Resized.png?v=1597703593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Portable bong fits all standard screw cap bottles.</p>
+<ul>
+<li>Portable bong</li>
+<li>Durable construction</li>
+<li>Fits virtually any screw top bottle</li>
+</ul>
+<br>
+<div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/YORD1_FgVC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bongs</s:tag>
+    <s:tag>Hybrid</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437824678</id>
+      <title>Blue</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>10052b</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437824678</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>10052a</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437824678</id>
+      <title>Clear</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>10052c</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437824678</id>
+      <title>Green</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>10052d</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437824678</id>
+      <title>Orange</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>10052e</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437693606</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-glow-in-the-dark-tree-bong-10"/>
+    <title>Glow Tree Bong - 10&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Bong-Tree-GlowinDark-Blue-1-Square.png?v=1592232334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>10 inch glass bong with a glow in the dark tree motif.</p>
+<ul>
+<li>Height: 10 inches</li>
+<li>Beaker style</li>
+<li>Glow in the dark tree accents</li>
+<li>14 mm joint</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bongs</s:tag>
+    <s:tag>Glass Bongs</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437693606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>10043</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437431462</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-10-inch-bong-model-bb-11"/>
+    <title>MouTHy – 10&quot; Bong – BB -11</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Bong-BB-11-Blue-Square.png?v=1592232309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cheerful and expressive beaker bong with gold accents.<br><br>Height: 10 inches <br>Thickness: 38*5mm<br>Base diameter: 3.8 inches<br>Features: 24K Golden Line, ice catcher</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bongs</s:tag>
+    <s:tag>Glass Bongs</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437431462</id>
+      <title>Red</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>10039</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437431462</id>
+      <title>Blue</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>10041</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437431462</id>
+      <title>Green</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>10042</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437431462</id>
+      <title>Orange</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>10040</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437365926</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-10-inch-bong-model-bb-1"/>
+    <title>MouTHy – 10″ Bong – BB-1</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Bong-BB-1-Green-Square.png?v=1592232309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic entry level 10 inch tube bong.</p>
+<ul>
+<li>Height: 10 inches</li>
+<li>Glass Thickness: 5 mm</li>
+<li>Base diameter: 3.5 inches</li>
+<li>3 prong ice pinch</li>
+<li>14 mm removable colored glass downstem</li>
+<li>Colored bowl</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bongs</s:tag>
+    <s:tag>Glass Bongs</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437365926</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>10004</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437333158</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-14-inch-bong-model-bb-2"/>
+    <title>MouTHy - 14&quot; Bong - BB-2</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/BB-2-Square.png?v=1592232310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14 inch beaker bong with helix percolator.</p>
+<ul>
+<ul>
+<li>Height: 14 inches</li>
+<li>Glass thickness: 55*5mm + 44*4.4mm</li>
+<li>Base diameter:4 inches</li>
+<li>Ice catcher</li>
+<li>Helix style percolator</li>
+<li>Beaker style</li>
+</ul>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bongs</s:tag>
+    <s:tag>Glass Bongs</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437333158</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>10005</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437202086</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-16-inch-bong-model-bb-7"/>
+    <title>MouTHy - 16&quot; Bong - BB-7</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/BB-7-Square.png?v=1592232309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>16 inch tube style bong with a showerhead/tree percolator.</p>
+<ul>
+<li>Height: 16 inches</li>
+<li>Glass thickness:55*5mm + 44*5mm</li>
+<li>Base diameter: 4 inches</li>
+<li>Ice catcher</li>
+<li>Splash guard</li>
+<li>8 arm tree percolator</li>
+<li>14 mm joint</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bongs</s:tag>
+    <s:tag>Glass Bongs</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437202086</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>10006</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mouthy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mouthy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mouthy.ca/collections/hardware.atom"/>
+  <title>MouTHy Inc.</title>
+  <updated>2020-06-25T13:03:17-04:00</updated>
+  <author>
+    <name>MouTHy Inc.</name>
+  </author>
+  <entry>
+    <id>https://mouthy.ca/products/5388926714022</id>
+    <published>2020-06-25T13:03:17-04:00</published>
+    <updated>2020-06-25T13:03:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-wallet-size-grinder-card"/>
+    <title>MouTHy Wallet Size Grinder Card</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Card-10.png?v=1593104598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Travel friendly grinder card. The size of a regular credit card fits in your wallet or pocket. Very easy to clean.<br><br> Material: Stainless Steel</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5388926714022</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>10032</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346438611110</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/pipe-screens"/>
+    <title>Pipe Screens</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Screens.png?v=1592232331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stainless steel pipe screens to prevent ash or hot cannabis drawn into a pipe.</p>
+<ul>
+<li>Fit most 14mm bowls including all our glass pipe products.</li>
+<li>Material: Stainless steel</li>
+<li>Diameter: 2cm (0.75 inch)</li>
+<li>Each individual packet holds 5 screens.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346438611110</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.79</s:price>
+      <s:sku>10030</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346438316198</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-herb-grinder-4-piece-40mm"/>
+    <title>Herb Grinder - 4 Piece - 40mm</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Mouthy-4-Piece-40mm-Grinder-Open-Square.png?v=1592232377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 piece zinc grinder</p>
+<ul>
+<ul>
+<li>28 diamond shape grinding teeth</li>
+<li>magnetic lid</li>
+<li>pollen catcher</li>
+<li>40 mm size</li>
+</ul>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grinder</s:tag>
+    <s:tag>Hardware</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346438316198</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>10007</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346438021286</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-glass-cap"/>
+    <title>Glass Cap</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/QG-36-Glass-Caps-Square.png?v=1592232325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quartz banger cap</p>
+<ul>
+<li>Quartz Glass<br>
+</li>
+<li>Various colors<br>
+</li>
+<li>No choke<br>
+</li>
+<ul></ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dab</s:tag>
+    <s:tag>Hardware</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346438021286</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>10037</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437955750</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-glass-cap-with-carb"/>
+    <title>Glass Cap with Carb</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/QG-35-Glass-Cap-Square.png?v=1592232375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quartz banger cap with carb</p>
+<ul>
+<li>Quartz</li>
+<li>Various colors</li>
+<li>With choke</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dab</s:tag>
+    <s:tag>Hardware</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437955750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>10038</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437922982</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-glass-dabber-rod"/>
+    <title>Glass Dabber Rod</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/QG4-Glass-Dabber-Square.png?v=1592232329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All glass dabber rod</p>
+<ul>
+<li>Length: 6.5 inch</li>
+<li>Various colors</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dab</s:tag>
+    <s:tag>Hardware</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437922982</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>10036</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

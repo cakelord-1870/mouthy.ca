@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mouthy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mouthy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mouthy.ca/collections/apparel.atom"/>
+  <title>MouTHy Inc.</title>
+  <updated>2020-12-10T15:30:46-05:00</updated>
+  <author>
+    <name>MouTHy Inc.</name>
+  </author>
+  <entry>
+    <id>https://mouthy.ca/products/6002752716966</id>
+    <published>2020-12-10T15:30:46-05:00</published>
+    <updated>2020-12-10T15:30:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/activated-carbon-mask-filter-pm2-5-3-pack-small"/>
+    <title>Activated Carbon Mask Filter PM2.5 - 3 Pack - Small</title>
+    <s:type>Apparel</s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/5-Layer-Activated-Carbon-Face-Mask-Filter-3-Pack_9942c640-90bb-4f33-925d-abaa3d3c5211.png?v=1607632997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong>Apparel<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These non-woven 5 layer activated carbon filters were designed to fit our Hemp Fabric Face Masks. </p>
+<p>They come in two sizes that fit our Small(Kids) masks.</p>
+<ul>
+<li>Made of 5 layers - 2 layers of non-woven fabric, 2 layers of melt-blown material and 1 layer of activated carbon cloth</li>
+</ul>
+<p>Comes in a 3 Pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparel</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/6002752716966</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5999559442598</id>
+    <published>2020-12-09T20:51:38-05:00</published>
+    <updated>2020-12-09T20:51:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/hemp-fabric-face-masks-kids-size"/>
+    <title>Hemp Fabric Face Masks - Kids Size</title>
+    <s:type>Apparel</s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/MouTHy-Hemp-Face-Mask-Foxy-Red-Kids-Size-Side-1-Pack.png?v=1607562097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong>Apparel<br>
+        <strong>Price: </strong>
+            14.99 - 29.99
+            <a href="https://mouthy.ca/products/hemp-fabric-face-masks-kids-size">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An ultra soft and comfortable <span data-mce-fragment="1">55% hemp and 45% organic cotton</span> blend facemask, is a perfect combination of functionality and comfort. <br></p>
+<p>Features adjustable ear straps and comes in 2 sizes for kids (Small) and adults (Large). <a href="/collections/apparel/products/hemp-fabric-face-mask-adult-size">Click here for our adult mask selection.</a></p>
+<p>These masks have been sustainably manufactured! There is usually square meters of fabric left over after a hemp fabric product manufacturing run. We have used these left over materials to make our masks. <a href="/blogs/news/why-hemp-clothing" target="_blank">See here why we use HEMP in all our apparel.</a></p>
+<p>Absolute superior quality to anything currently being sold by big box retailers.</p>
+<p>Our 1 pack includes:</p>
+<ul>
+<li>1 Hemp Fabric Face Mask</li>
+<li>2 Activated Carbon Filters</li>
+</ul>
+<p>Our 3<span> </span>pack includes:</p>
+<ul>
+<li>3 Hemp Fabric Face Mask</li>
+<li>6 Activated Carbon Filters</li>
+</ul>
+<p><span>We are the only Canadian brand making these amazing hemp face coverings. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparel</s:tag>
+    <s:tag>Hemp</s:tag>
+    <s:tag>Mask</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5999559442598</id>
+      <title>Foxy Red / 1 Mask</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>37275648000166</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5999559442598</id>
+      <title>Foxy Red / 3 Masks</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>37275648032934</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5999559442598</id>
+      <title>Sky Blue / 1 Mask</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>37275648065702</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5999559442598</id>
+      <title>Sky Blue / 3 Masks</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>37275648098470</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5999559442598</id>
+      <title>Snail Salmon / 1 Mask</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>37275648131238</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5999559442598</id>
+      <title>Snail Salmon / 3 Masks</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>37275648164006</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5945695109286</id>
+    <published>2020-11-28T20:31:45-05:00</published>
+    <updated>2020-11-28T20:31:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/hemp-fabric-face-mask-adult-size"/>
+    <title>Hemp Fabric Face Masks - Adult Size</title>
+    <s:type>Apparel</s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/MouTHy-Hemp-Face-Mask-Navy-Blue-Adult-Size-Side-1-Pack.png?v=1607561988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong>Apparel<br>
+        <strong>Price: </strong>
+            14.99 - 29.99
+            <a href="https://mouthy.ca/products/hemp-fabric-face-mask-adult-size">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An ultra soft and comfortable 55% hemp and 45% organic cotton blend facemask, is a perfect combination of functionality and comfort. <br></p>
+<p>Features adjustable ear straps and comes in 2 sizes for adults (Large) and kids (Small). <a href="/collections/apparel/products/hemp-fabric-face-masks-kids-size">Click here for our kids mask selection.</a></p>
+<p>This mask has been sustainably manufactured! There is usually square meters of fabric left over after a hemp fabric product manufacturing run. We have used these left over materials to make our masks. <a href="/blogs/news/why-hemp-clothing" target="_blank">See here why we use HEMP in all our apparel.</a></p>
+<p>Absolute superior quality to anything currently being sold by big box retailers.</p>
+<p>Our 1 pack includes:</p>
+<ul>
+<li>1 Hemp Fabric Face Mask</li>
+<li>2 Activated Carbon Filters</li>
+</ul>
+<p>Our 3<span> </span>pack includes:</p>
+<ul>
+<li>3 Hemp Fabric Face Mask</li>
+<li>6 Activated Carbon Filters</li>
+</ul>
+<p><span>We are the only Canadian brand making these amazing hemp face coverings. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparel</s:tag>
+    <s:tag>Hemp</s:tag>
+    <s:tag>Mask</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5945695109286</id>
+      <title>Brown Stripes on Beige / 1 Mask</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>37275640823974</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5945695109286</id>
+      <title>Brown Stripes on Beige / 3 Masks</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>37275640856742</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5945695109286</id>
+      <title>Dark Blue Floral / 1 Mask</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>37275640889510</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5945695109286</id>
+      <title>Dark Blue Floral / 3 Masks</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>37275640922278</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5945695109286</id>
+      <title>Flat Beige / 1 Mask</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>37275640955046</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5945695109286</id>
+      <title>Flat Beige / 3 Masks</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>37275640987814</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5945695109286</id>
+      <title>Navy Blue / 1 Mask</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>37275641020582</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5945695109286</id>
+      <title>Navy Blue / 3 Masks</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>37275641053350</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5945695109286</id>
+      <title>Stormy Teal / 1 Mask</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>37275641086118</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5945695109286</id>
+      <title>Stormy Teal / 3 Masks</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>37275641118886</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5946006077606</id>
+    <published>2020-11-28T20:29:42-05:00</published>
+    <updated>2020-11-28T20:29:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/activated-carbon-mask-filter-pm2-5-3-pack-large"/>
+    <title>Activated Carbon Mask Filter PM2.5 - 3 Pack - Large</title>
+    <s:type>Apparel</s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/5-Layer-Activated-Carbon-Face-Mask-Filters-3-Pack-Large.png?v=1607632319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong>Apparel<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These non-woven 5 layer activated carbon filters were designed to fit our Hemp Fabric Face Masks. </p>
+<p>They come in two sizes that fit our Large (Adult) masks.</p>
+<ul>
+<li>Made of 5 layers - 2 layers of non-woven fabric, 2 layers of melt-blown material and 1 layer of activated carbon cloth</li>
+</ul>
+<p>Comes in a 3 Pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparel</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5946006077606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346438480038</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/cannabis-leaf-crew-socks"/>
+    <title>Cannabis Leaf Crew Socks</title>
+    <s:type>Apparel</s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Mouthy-Crew-Sox-Multi-Color-Leaf-Retail.png?v=1592232327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong>Apparel<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crew cut socks with a cannabis leaf motif.</p>
+<ul>
+<ul>
+<li>One size fits all.</li>
+<li>Crew style.</li>
+<li>Unisex.</li>
+<li>90% cotton</li>
+<li>Two color variations:</li>
+<ul>
+<li>White with multi color leaves and</li>
+<li>Black with green leaves</li>
+</ul>
+<li>Retail ready packaging</li>
+</ul>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparel</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346438480038</id>
+      <title>Black</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>10013</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346438480038</id>
+      <title>White</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>10014</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346438152358</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/cannabis-leaf-ankle-socks"/>
+    <title>Cannabis Leaf Ankle Socks</title>
+    <s:type>Apparel</s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Mouthy-Ankle-Sox-White-with-Green-Leaf-Retail.png?v=1592232331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong>Apparel<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ankle socks with a cannabis leaf motif.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparel</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346438152358</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>10011</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346438152358</id>
+      <title>White</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>10012</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

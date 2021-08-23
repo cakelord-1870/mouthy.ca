@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mouthy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mouthy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mouthy.ca/collections/pipes.atom"/>
+  <title>MouTHy Inc.</title>
+  <updated>2020-06-25T12:45:25-04:00</updated>
+  <author>
+    <name>MouTHy Inc.</name>
+  </author>
+  <entry>
+    <id>https://mouthy.ca/products/5388908593318</id>
+    <published>2020-06-25T12:45:25-04:00</published>
+    <updated>2020-06-25T12:45:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-joint-tip-glass-joint-holder"/>
+    <title>MouTHy Joint Tip - Glass Joint Holder</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Glass-Joint-Holder.png?v=1593103526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A multi-functional glass joint holder. Can function as a joint tip or a mini one hitter. <br>Length: 5.5 CM</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass Pipes</s:tag>
+    <s:tag>Pipes</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5388908593318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku>10021</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437890214</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-sherlock-4-inch-pipe"/>
+    <title>Sherlock - 4&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Sherlock-1-1.png?v=1592232322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 inch sherlock pipe</p>
+<ul>
+<li>Classic 4" Sherlock pipe.</li>
+<li>Pocket size</li>
+<li>With carb hole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass Pipes</s:tag>
+    <s:tag>Pipes</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437890214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>10009</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437857446</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-wizard-8-inch-pipe"/>
+    <title>Wizard - 8&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/MouTHy-Wizard-8-Inch-Pipe.png?v=1592232324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hand blown wizard pipe.</p>
+<p>A fairly tale style glass pipe. All you need is some friends and a quest. </p>
+<ul>
+<ul>
+<li>Hand blown artisan pipe between 8"-10".</li>
+<li>Borosilicate glass</li>
+</ul>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass Pipes</s:tag>
+    <s:tag>Pipes</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437857446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>10010</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437791910</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-hammer-bubbler-hp-19-black"/>
+    <title>Hammer Bubbler</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Mouthy-Hammer-Bubbler-1-Square-e1580239012757.png?v=1592232327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A glass hammer style bubbler pipe with an X-Cut diffuser. Functional and also looks great as a display piece.<br></p>
+<p>Length:6.7 inches <br>Height:5.5 inches <br>Glass Thickness: 5mm <br>Perc: "X" Cut Diffused</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass Pipes</s:tag>
+    <s:tag>Pipes</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437791910</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>10047</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437759142</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-crystal-clear-spoon-pipe-4-inch"/>
+    <title>Crystal Clear Spoon - 4&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Crystal-Clear-4-Inch-Spoon-Pipe.png?v=1592232321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic clear spoon pipe</p>
+<ul>
+<ul>
+<li>4 inch</li>
+<li>Borosilicate glass</li>
+<li>With carb hole</li>
+</ul>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass Pipes</s:tag>
+    <s:tag>Pipes</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437759142</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>10001</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437726374</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-one-hitter-clear-4"/>
+    <title>One Hitter - 4&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/MouTHy-One-Hitter-4-Inch.png?v=1592232321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic 4 inch chillum a.k.a on hitter, a.k.a. taster.</p>
+<ul>
+<li>Borosilicate tube glass</li>
+<li>4 inches</li>
+<li>Integrated ash catcher</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass Pipes</s:tag>
+    <s:tag>Pipes</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437726374</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>10003</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437660838</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-spoon-pipe-turtle-glow-in-the-dark-4"/>
+    <title>Turtle Spoon - 4&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Spoon-Turtle-1-Square.png?v=1592232317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 inch glass spoon pipe with a glow in the dark turtle accent.</p>
+<ul>
+<li>4 inch</li>
+<li>Borosilicate glass</li>
+<li>Blue glass</li>
+<li>Glow in the dark turtle</li>
+<li>Choke hole</li>
+<li>Built in ash guard</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass Pipes</s:tag>
+    <s:tag>Glow in the Dark</s:tag>
+    <s:tag>Pipes</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437660838</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>10046</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437595302</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-spoon-pipe-paw-prints-glow-in-the-dark-4"/>
+    <title>Paw Prints Spoon - 4&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Spoon-Paws-1-Square.png?v=1592232311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 inch glass spoon pipe with a glow in the dark paw print accent.</p>
+<ul>
+<li>4 inch</li>
+<li>Borosilicate glass</li>
+<li>Blue glass</li>
+<li>Glow in the paw prints</li>
+<li>Choke hole</li>
+<li>Built in ash guard</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass Pipes</s:tag>
+    <s:tag>Glow in the Dark</s:tag>
+    <s:tag>Pipes</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437595302</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>10045</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437562534</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/mouthy-spoon-pipe-octopus-glow-in-the-dark-4-inch"/>
+    <title>Octopus Spoon - 4&quot;</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Spoon-Octopus-3-Square.png?v=1592232311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 inch glass spoon pipe with a glow in the dark octopus accent.</p>
+<ul>
+<li>4 inch</li>
+<li>Borosilicate glass</li>
+<li>Blue glass</li>
+<li>Glow in the dark octopus</li>
+<li>Choke hole</li>
+<li>Built in ash guard</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass Pipes</s:tag>
+    <s:tag>Glow in the Dark</s:tag>
+    <s:tag>Pipes</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437562534</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>10044</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mouthy.ca/products/5346437496998</id>
+    <published>2020-06-15T11:06:42-04:00</published>
+    <updated>2020-06-15T11:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mouthy.ca/products/traveler-pipe"/>
+    <title>Traveler Pipe</title>
+    <s:type></s:type>
+    <s:vendor>MouTHy Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0409/5977/0790/products/Traveler-Pipe-Red-1-Square.png?v=1592232311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MouTHy Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal, 3 piece travel ready pipe.</p>
+<ul>
+<li>Durable</li>
+<li>Easy to clean</li>
+<li>Strong magnetic connection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Metal Pipes</s:tag>
+    <s:tag>Pipes</s:tag>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437496998</id>
+      <title>Blue</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>10049</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437496998</id>
+      <title>Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>10051</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437496998</id>
+      <title>Green</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>10050</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mouthy.ca/products/5346437496998</id>
+      <title>Red</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>10048</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>
